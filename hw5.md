@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HW5 – Altair Visualizations
+permalink: /hw5/
 ---
 
 # HW5 – Two Views of the Same Dataset
