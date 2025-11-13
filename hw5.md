@@ -8,7 +8,7 @@ title: HW5 – Altair Visualizations
 <!-- Buttons -->
 <div style="margin: 1rem 0; display:flex; gap:.5rem; flex-wrap:wrap;">
   <a href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv" target="_blank" style="padding:.5rem .8rem; border:1px solid #ccc; border-radius:.4rem; text-decoration:none;">The Data</a>
-  <a href="https://github.com/ntewodros/ntewodros.github.io/python_notebooks/HW5 Notebook.ipynb" target="_blank" style="padding:.5rem .8rem; border:1px solid #ccc; border-radius:.4rem; text-decoration:none;">The Analysis</a>
+  <a href="https://github.com/ntewodros/ntewodros.github.io/blob/main/python_notebooks/HW5%20Notebook.ipynb" target="_blank" style="padding:.5rem .8rem; border:1px solid #ccc; border-radius:.4rem; text-decoration:none;">The Analysis</a>
 </div>
 
 ## Plot 1: Count of Buildings by Construction Decade
